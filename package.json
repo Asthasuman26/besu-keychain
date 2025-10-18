@@ -1,0 +1,18 @@
+{
+  "name": "besu-keychain-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "elliptic": "^6.6.1",
+    "ethers": "^6.15.0",
+    "keccak256": "^1.0.6"
+  }
+}
